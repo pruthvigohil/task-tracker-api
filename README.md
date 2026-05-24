@@ -18,7 +18,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-tracker-api.git
+git clone https://github.com/pruthvigohil/task-tracker-api.git
 cd task-tracker-api
 ```
 
