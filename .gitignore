@@ -1,0 +1,21 @@
+# Build outputs
+bin/
+obj/
+dist/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+*.userprefs
+
+# Environment / secrets
+appsettings.Development.json
+appsettings.Local.json
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
